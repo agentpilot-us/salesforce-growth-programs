@@ -2,6 +2,8 @@
 
 Reusable Salesforce + Agentforce components for building AI-native B2B growth programs.
 
+> **Note:** Client names and proprietary details are anonymized to protect confidentiality. All implementations represent real production systems with documented results.
+
 ## 🎯 What This Is
 
 A component library that accelerates implementing growth programs (ABM, events, referrals, developer growth) using Salesforce Agentforce and Data Cloud.
