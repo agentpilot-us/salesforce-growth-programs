@@ -43,9 +43,9 @@ salesforce-growth-programs/
 |---------|--------|----------|-------------|
 | **ABM Account Expansion** | ✅ Live | Activate untapped buying groups in existing accounts | 34% response rate, $400K pipeline/30 days |
 | **ABM New Logo** | ✅ Live | Multi-threaded cold outreach to target accounts | 25% response rate, $1M pipeline/quarter |
-| **Event Orchestration** | 🚧 In Progress | Pre-to-post event engagement at scale | Coming soon |
-| **Referral Programs** | 📋 Planned | Automate customer introductions & rewards | Coming soon |
-| **Developer Growth** | 📋 Planned | Partner & community activation | Coming soon |
+| **Event Orchestration** | 🚧 In Development | Pre-to-post event engagement at scale | Feb 2025 |
+| **Referral Programs** | 📋 Planned | Automate customer introductions & rewards | Mar 2025 |
+| **Developer Growth** | 📋 Planned | Partner & community activation | Q2 2025 |
 
 ## 🏗️ How to Use This Library
 
