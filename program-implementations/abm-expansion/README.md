@@ -1,8 +1,8 @@
 # ABM Account Expansion - Agentforce Implementation
 
 **Status:** ✅ Production  
-**Client:** Fortune 100 Tech Company (Semiconductors/GPU Manufacturing)  
-**Industry:** Enterprise Technology  
+**Client:** Fortune 100 Technology Company  
+**Industry:** Semiconductor Manufacturing (GPUs/AI Hardware)  
 **Results:** 34% response rate, $400K pipeline in 30 days
 
 ---
@@ -54,7 +54,7 @@ Most B2B companies have 200+ strategic accounts with 30-50 contacts each. That's
 
 - **47 contacts** segmented across 5 buying groups
 - **35 personalized emails** drafted by agent
-- **34% response rate** (vs. 8% industry average)
+- **12 responses** (34% response rate vs. 8% industry average)
 - **4 meetings** booked
 - **$400K+ expansion pipeline** created
 
